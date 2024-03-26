@@ -46,7 +46,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
                  "Due to Overload, Only Channel Subscribers can use this Bot!",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [   InlinekeyboardButton("Join Channel", url= "https://t.me/+Nz4u9JnJ5VMxMmU9"),
+                    [   InlinekeyboardButton("Join Channel", url= "https://t.me/+Jgrt2geiDxw0ZDc1"),
                         InlineKeyboardButton("Join Channel", url=invite_link.invite_link)
                     ],
                     [
